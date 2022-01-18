@@ -4,8 +4,6 @@ Create ethereum wallet in one tap. Fast, reliable, lightweight.
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="130" height="50">](https://play.google.com/store/apps/details?id=com.javster.simplecryptowallet)
 
-[<img src="https://storage.yandexcloud.net/sputnik-wallet-static-storage/app-gallery-white.png" width="130" height="50">](https://appgallery.huawei.com/app/C102824595)
-
 ### About wallet
 
 Sputnik allows you to create, import Ethereum and ERC-20 tokens and send them to anyone. No ads, registration, or other boring and useless things. Just the functionality you need.
